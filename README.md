@@ -2,6 +2,9 @@
 
 This sorts books according with provided rules
 
+[![Build Status](https://travis-ci.org/gabrielbecker/stormtech.svg?branch=master?branch=master)](https://travis-ci.org/gabrielbecker/stormtech.svg?branch=master?branch=master)
+
+
 # Installing and running
 
 1. Clone this repo:
