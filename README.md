@@ -2,7 +2,7 @@
 
 This sorts books according with provided rules
 
-[![Build Status](https://travis-ci.org/gabrielbecker/stormtech.svg?branch=master?branch=master)](https://travis-ci.org/gabrielbecker/stormtech.svg?branch=master?branch=master)
+[![Build Status](https://travis-ci.org/gabrielbecker/stormtech.svg?branch=master)](https://travis-ci.org/gabrielbecker/stormtech.svg?branch=master)
 
 
 # Installing and running
